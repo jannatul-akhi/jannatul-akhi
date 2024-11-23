@@ -1,6 +1,8 @@
 # 💫 About Me:
-Improving my frontend development skills by building interactive web applications.<br>Exciting design-to-code projects or portfolio-building tasks.<br>Tips and resources for creating eye-catching GitHub READMEs.<br>How to contribute to open-source projects effectively.<br>How I stay motivated as a developer!<br>I love experimenting with code challenges and creating fun mini-projects."
-
+🔭 I’m currently working on MERN stack
+🌱 I’m currently learning Next.js
+💬 Ask me about React, JavaScript, HTML, CSS
+⚡ Fun fact - I love experimenting with code challenges and creating fun mini-projects.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/782475428341874728) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100019176511052) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jannatul__akhi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jannatul-ferdous-87087221b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC84t3DIjqoaiIo4GbGp4O9w) 
